@@ -1,8 +1,7 @@
 # Sanitation
 ## Project Overview
 
-This project analyzes sanitation outcomes in India using unit-level data from the
-76th round of the National Sample Survey (NSS) on Drinking Water, Sanitation, Hygiene,
+This project analyzes sanitation outcomes in India using unit-level data of the National Sample Survey (NSS) on Drinking Water, Sanitation, Hygiene,
 and Housing Conditions (WASH).
 
 The analysis focuses on two key sanitation indicators:
